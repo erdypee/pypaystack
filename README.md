@@ -53,7 +53,5 @@ response = plan.getone(240) #Get plan with id of 240
 response = plan.getall() #Get all plans
 
 ```
-#Todo
-Write more tests
 
 
